@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="799" height="177" viewBox="0 0 799 177">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ad11ab"/>
+      <stop offset="1" stop-color="#f89c28"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_128" data-name="Group 128" transform="translate(-561 -969)">
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="84" cy="84" r="84" transform="translate(568 978)" fill="#103c6a"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="84" cy="84" r="84" transform="translate(776 978)" fill="#103c6a"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="84" cy="84" r="84" transform="translate(984 978)" fill="#103c6a"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="84" cy="84" r="84" transform="translate(1192 978)" fill="#103c6a"/>
+    <g id="Group_125" data-name="Group 125" transform="translate(-411 2)">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="84" cy="84" r="84" transform="translate(972 967)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="84" cy="84" r="84" transform="translate(1180 967)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="84" cy="84" r="84" transform="translate(1388 967)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="84" cy="84" r="84" transform="translate(1596 967)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="_22" data-name="22" transform="translate(645 1061)" fill="#f5f5f5" font-size="68" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-42.838" y="0">22</tspan></text>
+    <text id="_23" data-name="23" transform="translate(853 1061)" fill="#f5f5f5" font-size="68" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-43.84" y="0">23</tspan></text>
+    <text id="_17" data-name="17" transform="translate(1061 1061)" fill="#f5f5f5" font-size="68" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-36.862" y="0">17</tspan></text>
+    <text id="_10" data-name="10" transform="translate(1269 1061)" fill="#f5f5f5" font-size="68" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-40.037" y="0">10</tspan></text>
+    <text id="Compagnes" transform="translate(645 1088)" fill="#f5f5f5" font-size="20" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="-57.454" y="0">Compagnes</tspan></text>
+    <text id="clients" transform="translate(853 1088)" fill="#f5f5f5" font-size="20" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="-31.488" y="0">clients</tspan></text>
+    <text id="Listes" transform="translate(1061 1088)" fill="#f5f5f5" font-size="20" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="-28.384" y="0">Listes</tspan></text>
+    <text id="Contenus" transform="translate(1269 1088)" fill="#f5f5f5" font-size="20" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="-46.161" y="0">Contenus</tspan></text>
+  </g>
+</svg>
