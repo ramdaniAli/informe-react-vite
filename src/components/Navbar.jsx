@@ -10,8 +10,9 @@ const navigation = [
   { name: "A propos", href: "#" },
 ];
 
-const Navbar = () => {
+const Navbar = ({ showLoginForm, setshowLoginForm }) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
   return (
     <header className="absolute inset-x-0 top-0 z-50 bg-blue-900">
       <nav
@@ -50,7 +51,7 @@ const Navbar = () => {
         <div className="hidden lg:flex lg:justify-end">
           <button
             type="button"
-            onClick={() => console.log("🔴 redirect connexion")}
+            onClick={() => setshowLoginForm(!showLoginForm)}
             className="font-semibold px-3.5 py-1.5 rounded-md text-blue-900 text-lg bg-white  drop-shadow-sm  hover:shadow-md focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-400 transition ease-in-out duration-500"
           >
             Login
